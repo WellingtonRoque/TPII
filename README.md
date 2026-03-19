@@ -222,3 +222,7 @@ Disciplina: Técnicas de Programação II
 # 📜 Licença
 
 Este repositório é destinado exclusivamente para fins educacionais.
+
+
+# Link Pycharm Community
+https://www.jetbrains.com/pycharm/download/other/
